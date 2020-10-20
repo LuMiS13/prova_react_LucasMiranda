@@ -6,11 +6,11 @@ export default props => (
     <div class="main-content">
         <div class="container-fluid content-top-gap">
             <nav aria-label="breadcrumb" class="mb-4">
-            <ol class="breadcrumb my-breadcrumb">
-            <li class="breadcrumb-item"><a href="#/index">Home</a></li>
-            <li class="breadcrumb-item"><a href="#/blocks">Elements</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Content Blocks</li>
-            </ol>
+                <ol class="breadcrumb my-breadcrumb">
+                    <li class="breadcrumb-item"><a href="#/index">Home</a></li>
+                    <li class="breadcrumb-item"><a href="#/blocks">Elements</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Content Blocks</li>
+                </ol>
             </nav>
             <div class="cards__heading">
                 <h3>Content Blocks</h3>
